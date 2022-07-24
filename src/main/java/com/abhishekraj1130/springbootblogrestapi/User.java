@@ -4,8 +4,6 @@ import lombok.Data;
 
 import javax.persistence.*;
 
-import org.hsqldb.lib.RCData;
-
 import java.util.Set;
 
 @Data
